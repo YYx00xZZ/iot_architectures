@@ -1,4 +1,6 @@
-# iot_architecture
+# iot_architecture *A*
+Reference: https://www.mongodb.com/cloud-explained/iot-architecture
+
 Devices: This stage is about the actual devices in the IoT solutions. These devices
 could be sensors or actuators in the Perception layer. Those devices will generate
 data (in the case of sensors) or act on their environment (in the case of actuators).
